@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  Maps Test
+
+  Created by Carlos Monfort Gómez on 30/11/2018.
+  Copyright © 2018 Carlos Monfort Gómez. All rights reserved.
+*/
+
+// MARK: - Alerts
+"warning" = "Aviso";
+"ok" = "Aceptar";
+"noPermission" = "No se puede acceder al GPS. Compruebe los permisos en ajustes del sistema y vuelva a intentarlo";
+"noRoutes" = "Ninguna ruta registrada";
+
+// MARK: - MapVC
+"mapVCTitle" = "Inicio";
+"trackLabel" = "Seguimiento";
+"routesButton" = "Ver rutas";
+
+// MARK: - RoutesTVC
+"routesVCTitle" = "Rutas";
+"cellTitle" = "Ruta %d";
+
+// MARK: - DetailVC
+"startLabel" = "Inicio:";
+"endLabel" = "Final:";
+"distanceLabel" = "Distancia:";
+"distanceInMeters" = "%d metros";
+
